@@ -1,60 +1,43 @@
+[Week]
+A = 1,3,5,7,9,11,13,15,17,19,21,23,25,27,29,31,33,35,37,39,41,43,45,47,49,51,53
+B = 2,4,6,8,10,12,14,16,18,20,22,24,26,28,30,32,34,36,38,40,42,44,46,48,50,52
+
 [Monday]
-1 = Deutsch
-2 = Mathe
-3 = Musik
-4 =
-5 = Sachkunde
-6 =
-7 =
-8 =
-9 =
-10 =
+1 = Mathe
+2 = Englisch
+3 = Deutsch
+4 = Sachunterricht
+5 = Sachunterricht
+6 = A:Werken | B:soziales Lernen
+7 = A:Werken | B:soziales Lernen
 
 [Tuesday]
 1 = Mathe
-2 = Deutsch
-3 =
-4 =
-5 =
-6 =
-7 =
-8 =
-9 =
-10 =
+2 = Mathe
+3 = Sachunterricht
+4 = Deutsch
 
 [Wednesday]
-1 = Sachkunde
-2 =
-3 =
-4 =
-5 =
-6 =
-7 =
-8 =
-10 =
+1 = Musik
+2 = Sachunterricht
+3 = Deutsch
+4 = Deutsch
+5 = Englisch
+6 = Mathe
 
 [Thursday]
-1 = Englisch
-2 =
-3 =
-4 =
-5 =
-6 =
-7 =
-8 =
-10 =
+1 = Kunst
+2 = Kunst
+3 = A:Deutsch | B:Sport
+4 = A:Deutsch | B:Sport
+5 = Deutsch
 
 [Friday]
-1 = Mathe
-2 = Sachkunde
-3 =
-4 =
-5 =
-6 =
-7 =
-8 =
-9 =
-10 =
+1 = Sport
+2 = Sport
+3 = Religion
+4 = Deutsch
+5 = Mathe
 
 [Saturday]
 1 =
